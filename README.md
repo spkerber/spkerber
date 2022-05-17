@@ -7,7 +7,7 @@
 A founder and product builder, I’ve brought 8+ years of passion to frontier industries in AI/ML, carbon markets, and process engineering.
 Looking for my next product role working with leaders who imagine new futures, while caring to build for people on the margins.
 
-- 🔭 Currently finding my next job! My startup <a href="bessiebox.com">Bessie<a/> has recently been acquired.
+- 🔭 Currently finding my next job! My startup <a href="https://bessiebox.com/">Bessie<a/> has recently been acquired.
 - 🌱 Learning Ruby, engineering management, and how to write better poetry.
 - 👯 Looking to collaborate? Book me with <a href="https://calendly.com/skerbz/15-minute-meeting">calendly<a/> for a chat!
 - 📫 How to reach me: <a href="mailto:spencer@spkerber.com">email</a> or DM me!
