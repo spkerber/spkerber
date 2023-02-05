@@ -7,8 +7,6 @@
 A product manager with technical skills and a spirit for creative experiments. 
 former founder. +8 years tech xp.
 
-- 🔭 Currently finding my next job! My startup <a href="https://bessiebox.com/">Bessie<a/> has recently been acquired.
-- 🌱 Learning Ruby, engineering management, and how to write better poetry.
 - 👯 Looking to collaborate? Book me with <a href="https://calendly.com/skerbz/15-minute-meeting">calendly<a/> for a chat!
 - 📫 How to reach me: <a href="mailto:spencer@spkerber.com">email</a> or DM me!
 - 😄 Pronouns: he/him
