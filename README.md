@@ -2,7 +2,7 @@
 **spkerber/spkerber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About Me
-**Spencer Kerber:** 🌱 gardener, writer, product leader. sfo.
+**Spencer Kerber:** 🌱 gardener, writer, product worker. sfo.
 
 A product manager with technical skills and a spirit for creative experiments. 
 former founder. +8 years tech xp.
