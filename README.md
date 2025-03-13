@@ -3,12 +3,12 @@
 
 **Spencer Kerber:** 
 writer, product, 🌱 gardener. 
-sfo based.
+sf based.
 
 A product builder with technical skills and a spirit for creative experiments. 
 +8 years tech experience across sectors (startups, industry, & gov).
 
-I’m a published writer (in print!) and recently made a poem/scent pairing for a gallery show. 
+I’m a published writer (in print!). 
 Happy sous-chef, furniture builder, & cat dad at home.
 
 
