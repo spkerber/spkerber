@@ -11,9 +11,5 @@ A product builder with technical skills and a spirit for creative experiments.
 I’m a published writer (in print!). 
 Happy sous-chef, furniture builder, & cat dad at home.
 
-
-- 📫 How to reach me: <a href="mailto:spencer@spkerber.com">email</a>
-
 ### Links
-- <a href="https://www.spkerber.com/">Website</a>
 - <a href="https://linkedin.com/in/spencerkerber">LinkedIn
