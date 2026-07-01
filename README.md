@@ -5,8 +5,8 @@
 product, writer, 🌱 gardener. 
 sf based.
 
-A product builder with technical skills and a spirit for creative experiments. 
-10 years tech experience across sectors (startups, industry, & government).
+PM who codes, building AI products for high-stakes operations. Product leader with 10+ years experience across startups, consulting, industry, and government. 
+At my best in hybrid builder-manager roles; working hands-on beside engineering to turn ambiguous problems into production systems. Strategic, creative, and technical.
 
 I’m a published writer (in print!). 
 Happy sous-chef, furniture builder, & cat dad at home.
